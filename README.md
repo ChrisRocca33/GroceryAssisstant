@@ -3,8 +3,11 @@
 
 
 <h2>Description</h2>
-The Web application supports HTTPS communication, provides login authority levels for administrators and technicians, provides functionality based on the type of login, displays information contained in a database, and allows users to add additional records to the database. The Images below are from other projects but serve to show how the applications functionality works.
+
 <br />
+User can enter the size of the household. They can then select the item that they wish to be notified on based off the household size. User then hits set reminder button to calculate when the notification is to be sent. The screen displays the item that the user selected and tells them when they will be notified based off selection and size entered for household.
+
+
 
 
 <h2>Languages and Utilities Used</h2>
